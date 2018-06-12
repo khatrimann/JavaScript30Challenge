@@ -1,0 +1,661 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"img"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"data",
+				"data-key"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"so",
+				"sound	(DrumKit.html)"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"key",
+				"keys	(DrumKit.html)"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"sec",
+				"secondHand"
+			],
+			[
+				"se",
+				"seconds"
+			],
+			[
+				"seco",
+				"second"
+			],
+			[
+				"second",
+				"second-hand"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"clock",
+				"clock-face"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"Fes",
+				"FestAccomodationForm	(forms.py)"
+			],
+			[
+				"for",
+				"forms	(forms.py)"
+			],
+			[
+				"Mo",
+				"ModelForm	(forms.py)"
+			],
+			[
+				"Add",
+				"AddFieldsCreateView"
+			],
+			[
+				"Cre",
+				"CreateView"
+			],
+			[
+				"dy",
+				"dynamic_app	(base.py)"
+			],
+			[
+				"fie",
+				"fields_createview"
+			],
+			[
+				"fiel",
+				"fields_createview	(views.py)"
+			],
+			[
+				"my",
+				"mymove"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tab",
+				"tabcontent"
+			],
+			[
+				"In",
+				"Introduction"
+			],
+			[
+				"cit",
+				"cityName"
+			],
+			[
+				"N",
+				"none"
+			],
+			[
+				"getElementB",
+				"getElementById"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName"
+			],
+			[
+				"page",
+				"pageYOffset"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"of",
+				"offsetTop"
+			],
+			[
+				"F",
+				"FAQs"
+			],
+			[
+				"A",
+				"Accomodation"
+			],
+			[
+				"cona",
+				"containrt"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"t",
+				"tabcontent"
+			],
+			[
+				"nav",
+				"nav-wrapper"
+			],
+			[
+				"gt",
+				"getElementById"
+			],
+			[
+				"co",
+				"containrb"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"conta",
+				"containrb"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"ta",
+				"tablinks"
+			],
+			[
+				"tra",
+				"translation	(index.html)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"c",
+				"containr"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"coan",
+				"containr	(index.html)"
+			],
+			[
+				"con",
+				"container	(index.html)"
+			],
+			[
+				"widt",
+				"width	(index.html)"
+			],
+			[
+				"67th",
+				"67thmilestone	(hosp.html)"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"contr",
+				"contrib	(urls.py)"
+			],
+			[
+				"fo",
+				"form_valid"
+			],
+			[
+				"Res",
+				"RestaurantCreateView"
+			],
+			[
+				"va",
+				"validate_category"
+			],
+			[
+				"ca",
+				"cat"
+			],
+			[
+				"R",
+				"RestuarantCreateView"
+			],
+			[
+				"Resta",
+				"RestuarantListView"
+			],
+			[
+				"Re",
+				"RestaurantLocationCreateForm"
+			],
+			[
+				"ra",
+				"random_string_generator"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"pre",
+				"pre_save"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"ti",
+				"timestamp"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"res",
+				"rest_id"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"te",
+				"template_name"
+			],
+			[
+				"T",
+				"TemplateView"
+			],
+			[
+				"H",
+				"HomeView"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"Ho",
+				"homeView"
+			],
+			[
+				"ho",
+				"home3"
+			],
+			[
+				"home",
+				"home2"
+			],
+			[
+				"h",
+				"home3"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CSS Variables.html",
+			"settings":
+			{
+				"buffer_size": 1557,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mann/Documents/JavaScrip30DaysChallenge/CSS Variables",
+		"/home/mann/Documents/JavaScrip30DaysChallenge/drum.css",
+		"/home/mann/Documents/JavaScrip30DaysChallenge/DrumKit.html",
+		"/home/mann/Documents/JavaScrip30DaysChallenge/sounds/snare.wav",
+		"/home/mann/Documents/JavaScrip30DaysChallenge/clock.html",
+		"/home/mann/Documents/JavaScrip30DaysChallenge/trial.html",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/clock.html",
+		"/home/mann/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/urls.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/festWebsite/urls.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/festWebsite/settings.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/views.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/website/views.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/forms.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/webblog/blog/forms.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/webblog/blog/views.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/models.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/webblog/blog/models.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/apps.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/webblog/blog/apps.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/67thmilestone/festWebsite/blog/admin.py",
+		"/home/mann/Documents/for mann/Original fest 17-3/webblog/blog/admin.py",
+		"/home/mann/fest/dynamic_app/forms.py",
+		"/home/mann/fest/dynamic_app/models.py",
+		"/home/mann/Dev/mkhome/src/restaurant/forms.py",
+		"/home/mann/Dev/mkhome/src/restaurant/views.py",
+		"/home/mann/fest/dynamic_app/views.py",
+		"/home/mann/Dev/mkhome/src/restaurant/models.py",
+		"/home/mann/fest/dynamic/urls.py",
+		"/home/mann/Dev/mkhome/src/mkhome/urls.py",
+		"/home/mann/fest/dynamic_app/admin.py",
+		"/home/mann/fest/dynamic/settings/base.py",
+		"/home/mann/Dev/mkhome/src/restaurant/validators.py",
+		"/home/mann/fest/dynamic_app/validators.py",
+		"/home/mann/Dev/mkhome/src/restaurant/admin.py",
+		"/home/mann/fest/dynamic_app/templates/dynamic_app/form.html",
+		"/home/mann/fest/templates/form.html",
+		"/home/mann/fest/dynamic/settings/local.py",
+		"/home/mann/fest/dynamic/settings/production.py",
+		"/home/mann/Dev/mkhome/src/mkhome/settings/base.py",
+		"/home/mann/Dev/mkhome/src/mkhome/settings/production.py",
+		"/home/mann/Dev/mkhome/src/mkhome/settings/local.py",
+		"/home/mann/fest/dynamic_app/utils.py",
+		"/home/mann/Dev/mkhome/src/restaurant/utils.py",
+		"/home/mann/Dev/mkhome/src/templates/base.html",
+		"/home/mann/Dev/mkhome/src/templates/contact.html",
+		"/home/mann/Dev/mkhome/src/templates/home.html",
+		"/home/mann/Dev/mkhome/src/templates/about.html",
+		"/home/mann/Dev/mkhome/src/restaurant/templates/restaurant/restaurant_list.html",
+		"/home/mann/Dev/mkhome/src/restaurant/templates/restaurant/form.html",
+		"/home/mann/Dev/mkhome/src/restaurant/templates/restaurant/restaurantlocation_detail.html",
+		"/home/mann/Documents/hos/Main-Website/hosp.css",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/hosp.css",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/Main-Website/index.html",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/Main-Website/all_in_one.html",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/Main-Website/main.css",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/Main-Website/index.html.save",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/hosp.html",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/page.html",
+		"/home/mann/Documents/website/all_in_one.html",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/hosp-trial.js",
+		"/home/mann/Documents/website/67th Milestone-20180213T172027Z-001/67th Milestone/hosp-trial.html",
+		"/home/mann/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/mann/Dev/mkhome/src/restaurant/apps.py",
+		"/home/mann/Dev/mkhome/lib/python3.6/config-3.6m-x86_64-linux-gnu/install-sh",
+		"/home/mann/esplights/switch06/switch06.ino",
+		"/home/mann/Documents/Fritzing/try-temp.ino",
+		"/home/mann/Arduino/keypad/keypad.ino",
+		"/home/mann/esplights/ldr_02/ldr_02.ino",
+		"/home/mann/esplights/time_03/time_03.ino",
+		"/home/mann/Dev/mkhome/src/restaurant/templates/restuarant/restaurant_list.html",
+		"/home/mann/Dev/mkhome/src/templates/snippets/css.html",
+		"/home/mann/Dev/mkhome/src/templates/snippets/js.html",
+		"/home/mann/Dev/mkhome/src/templates/snippets/nav.html",
+		"/home/mann/Dev/mkhome/src/db.sqlite3",
+		"/home/mann/Dev/mkhome/src/mkhome/settings/requirements.txt",
+		"/home/mann/Dev/mkhome/src/mkhome/settings/__init__.py",
+		"/home/mann/Dev/mkhome/src/mkhome/settings.py",
+		"/home/mann/Dev/Dev.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"hand hour-hand\"></div>",
+			">\n",
+			"}\n",
+			"Walkthrough",
+			"    \n",
+			"\");\n",
+			";\n",
+			"auto",
+			"server",
+			"models",
+			"obj",
+			"='/'>\n",
+			"def home(request):\n	#return HttpResponse(\"Hello\")\n	num = random.randint(0,10000000)\n	some_list = [num,random.randint(0,10000000), random.randint(0,10000000)]\n	context = {\"bool_item\": True, \n		\"num\": num,\n		\"some_list\": some_list\n	}\n	\n	return render(request, \"base.html\", context)\n\n",
+			"),\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"object"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CSS Variables.html",
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1169.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"lib/python3.6/config-3.6m-x86_64-linux-gnu/install-sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}
