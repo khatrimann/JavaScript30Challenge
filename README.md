@@ -12,7 +12,7 @@ This is a 30 day Vanilla JS coding challenge. Here you see videos and implement 
 * [x] Flex Panels Image Gallery
 * [x] Ajax Type Ahead
 * [x] Array Cardio Day 2
-* [ ] Fun with HTML5 Canvas
+* [x] Fun with HTML5 Canvas
 * [ ] 14 Must Know Dev Tools Tricks
 * [ ] Hold Shift to Check Multiple Checkboxes
 * [ ] Custom HTML5 Video Player
