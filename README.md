@@ -14,7 +14,7 @@ This is a 30 day Vanilla JS coding challenge. Here you see videos and implement 
 * [x] Array Cardio Day 2
 * [x] Fun with HTML5 Canvas
 * [x] 14 Must Know Dev Tools Tricks
-* [ ] Hold Shift to Check Multiple Checkboxes
+* [x] Hold Shift to Check Multiple Checkboxes
 * [ ] Custom HTML5 Video Player
 * [ ] Key Sequence Detection (KONAMI CODE)
 * [ ] Slide In on Scroll
