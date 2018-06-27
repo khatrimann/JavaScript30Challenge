@@ -16,7 +16,7 @@ This is a 30 day Vanilla JS coding challenge. Here you see videos and implement 
 * [x] 14 Must Know Dev Tools Tricks
 * [x] Hold Shift to Check Multiple Checkboxes
 * [x] Custom HTML5 Video Player
-* [ ] Key Sequence Detection (KONAMI CODE)
+* [x] Key Sequence Detection (KONAMI CODE)
 * [ ] Slide In on Scroll
 * [ ] Object and Arrays - Reference VS Copy
 * [ ] LocalStorage and Event Delegation
