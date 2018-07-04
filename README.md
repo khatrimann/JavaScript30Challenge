@@ -19,7 +19,7 @@ This is a 30 day Vanilla JS coding challenge. Here you see videos and implement 
 * [x] Key Sequence Detection (KONAMI CODE)
 * [x] Slide In on Scroll
 * [x] Object and Arrays - Reference VS Copy
-* [ ] LocalStorage and Event Delegation
+* [x] LocalStorage and Event Delegation
 * [ ] CSS Text Shadow Mouse Move Effect
 * [ ] Sorting Band Names without articles
 * [ ] Tally String Times with Reduce
