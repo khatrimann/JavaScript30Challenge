@@ -20,7 +20,7 @@ This is a 30 day Vanilla JS coding challenge. Here you see videos and implement 
 * [x] Slide In on Scroll
 * [x] Object and Arrays - Reference VS Copy
 * [x] LocalStorage and Event Delegation
-* [ ] CSS Text Shadow Mouse Move Effect
+* [x] CSS Text Shadow Mouse Move Effect
 * [ ] Sorting Band Names without articles
 * [ ] Tally String Times with Reduce
 * [ ] Unreal Webcam Fun
