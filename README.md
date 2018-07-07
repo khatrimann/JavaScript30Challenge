@@ -22,7 +22,7 @@ This is a 30 day Vanilla JS coding challenge. Here you see videos and implement 
 * [x] LocalStorage and Event Delegation
 * [x] CSS Text Shadow Mouse Move Effect
 * [x] Sorting Band Names without articles
-* [ ] Tally String Times with Reduce
+* [x] Tally String Times with Reduce
 * [ ] Unreal Webcam Fun
 * [ ] Native Speech Recognition
 * [ ] Geolocation based Speedometer and Compass
